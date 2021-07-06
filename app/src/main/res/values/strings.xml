@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+    <string name="search">Search...</string>
+    <string name="go">GO</string>
+    <string name="add_contacts">+</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="edit_contact">Edit Contact</string>
+</resources>
